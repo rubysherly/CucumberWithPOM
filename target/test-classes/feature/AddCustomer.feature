@@ -6,9 +6,9 @@ Feature: To test the add customer functionality
   Scenario: To test generate the add customer page
     Given the user is in add customer page.
     When the user fill in the valid customer details.
-      | firstName   | gayathri        |
-      | lastName    | Raghuvaran       |
-      | emailAdress | test@gmail.com |
+      | firstName   | ruby        |
+      | lastName    | sherly       |
+      | emailAdress | ruby@gmail.com |
       | address     | chennai        |
       | phoneNum    |        7708654|
     And the user clicks the SUBMIT button.
@@ -18,9 +18,9 @@ Feature: To test the add customer functionality
   Scenario: To test generate the add customer page
     Given the user is in add customer page.
     When the user fill in the valid customer details.
-      | firstName   | gayathri        |
-      | lastName    | Raghuvaran       |
-      | emailAdress | test@gmail.com |
+      | firstName   | ruby        |
+      | lastName    | sherly       |
+      | emailAdress | ruby@gmail.com |
       | address     | chennai        |
       | phoneNum    |        7708654|
     And the user clicks the SUBMIT button.
@@ -30,9 +30,9 @@ Feature: To test the add customer functionality
   Scenario: To test generate the add customer page
     Given the user is in add customer page.
     When the user fill in the valid customer details.
-      | firstName   | gayathri        |
-      | lastName    | Raghuvaran       |
-      | emailAdress | test@gmail.com |
+      | firstName   | ruby        |
+      | lastName    | sherly       |
+      | emailAdress | ruby@gmail.com |
       | address     | chennai        |
       | phoneNum    |        7708654|
     And the user clicks the SUBMIT button.
@@ -42,9 +42,9 @@ Feature: To test the add customer functionality
   Scenario: To test generate the add customer page
     Given the user is in add customer page.
     When the user fill in the valid customer details.
-      | firstName   | gayathri        |
-      | lastName    | Raghuvaran       |
-      | emailAdress | test@gmail.com |
+      | firstName   | ruby        |
+      | lastName    | sherly       |
+      | emailAdress | ruby@gmail.com |
       | address     | chennai        |
       | phoneNum    |        7708654|
     And the user clicks the SUBMIT button.
